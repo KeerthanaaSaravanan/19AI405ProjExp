@@ -1,6 +1,7 @@
 # Implement a Sudoku Solver From Scratch Using Python
 
 Name: KEERTHANA SARAVANAN
+<BR>
 Register Number: 212223240070
 
 ## Steps to solve the Sudoku Puzzle in Python
